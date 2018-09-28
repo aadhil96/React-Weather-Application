@@ -17,4 +17,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 
 Screenshot of application
+
+```
 https://user-images.githubusercontent.com/28821226/46191472-8bc66a80-c2ac-11e8-876c-745ed6f3bdc5.png
+```
